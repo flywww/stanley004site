@@ -3,6 +3,8 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "congo"
+
+# personal settings
 googleAnalytics = "G-304QB36Y7B"
 
 # baseURL = "https://stanley004.com/"
