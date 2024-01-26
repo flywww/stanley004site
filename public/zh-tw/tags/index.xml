@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stanley Lin</title>
-    <link>/tags/</link>
+    <link>/zh-tw/tags/</link>
     <description>Recent content in Tags on Stanley Lin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <atom:link href="/zh-tw/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
