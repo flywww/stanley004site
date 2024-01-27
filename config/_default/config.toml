@@ -7,7 +7,7 @@ theme = "congo"
 # personal settings
 googleAnalytics = "G-304QB36Y7B"
 
-# baseURL = "https://stanley004.com/"
+baseURL = "https://stanley004.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
